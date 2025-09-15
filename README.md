@@ -1,1 +1,1 @@
-![](imgs/lucy.gif)
+![](imgs/miku.gif)
